@@ -1,7 +1,0 @@
-Remove Pin=P1-1 From Net=GND
-Remove Pin=P1-2 From Net=S3
-Remove Pin=P1-3 From Net=S5
-Remove Pin=P1-4 From Net=S2
-Remove Pin=P1-5 From Net=S4
-Remove Pin=P1-6 From Net=S1
-Remove Pin=P1-7 From Net=S6
